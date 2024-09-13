@@ -1,0 +1,306 @@
+{
+    "requestId": null,
+    "data": [
+        {
+          "id": 100000057498,
+          "storageId": 10000008729,
+          "code": "A01-01-01-R",
+          "productId": 110000081010,
+          "productName": "FloBrand-DressBSPurple",
+          "productCode": "FBR00040103",
+          "quantity": 64,
+          "createdTime": "2021-11-20T07:46:36.573033Z"
+        },
+        {
+          "id": 100000057486,
+          "storageId": 10000009411,
+          "code": "A01-01-01-Z",
+          "productId": 110000081012,
+          "productName": "FloBrand-DressBSBlue",
+          "productCode": "FBR00040104",
+          "quantity": 16,
+          "createdTime": "2023-12-28T12:30:18.636123Z"
+        },
+        {
+          "id": 100000057432,
+          "storageId": 10000008511,
+          "code": "A01-01-01-P",
+          "productId": 110000081012,
+          "productName": "FloBrand-DressBSPink",
+          "productCode": "FBR00040102",
+          "quantity": 45,
+          "createdTime": "2022-01-03T03:41:59.823811Z"
+        },
+        {
+          "id": 100000057484,
+          "storageId": 10000009555,
+          "code": "A01-01-01-Q",
+          "productId": 110000081010,
+          "productName": "FloBrand-DressBSBlue",
+          "productCode": "FBR00040102",
+          "quantity": 76,
+          "createdTime": "2021-11-28T11:19:34.520667Z"
+        },
+        {
+          "id": 100000057473,
+          "storageId": 10000009593,
+          "code": "A01-01-01-W",
+          "productId": 110000081009,
+          "productName": "FloBrand-DressBSBlue",
+          "productCode": "FBR00040104",
+          "quantity": 76,
+          "createdTime": "2021-02-06T01:03:49.262965Z"
+        },
+        {
+          "id": 100000057421,
+          "storageId": 10000009403,
+          "code": "A01-01-01-V",
+          "productId": 110000081012,
+          "productName": "FloBrand-DressBSBlue",
+          "productCode": "FBR00040104",
+          "quantity": 56,
+          "createdTime": "2023-10-09T11:06:12.310953Z"
+        },
+        {
+          "id": 100000057438,
+          "storageId": 10000008800,
+          "code": "A01-01-01-W",
+          "productId": 110000081011,
+          "productName": "FloBrand-DressBSBlue",
+          "productCode": "FBR00040103",
+          "quantity": 15,
+          "createdTime": "2022-03-27T17:25:47.243500Z"
+        },
+        {
+          "id": 100000057470,
+          "storageId": 10000009714,
+          "code": "A01-01-01-R",
+          "productId": 110000081010,
+          "productName": "FloBrand-DressBSPurple",
+          "productCode": "FBR00040104",
+          "quantity": 79,
+          "createdTime": "2021-03-12T23:07:52.167303Z"
+        },
+        {
+          "id": 100000057449,
+          "storageId": 10000009271,
+          "code": "A01-01-01-Q",
+          "productId": 110000081010,
+          "productName": "FloBrand-DressBSPurple",
+          "productCode": "FBR00040102",
+          "quantity": 13,
+          "createdTime": "2021-10-10T10:11:23.548644Z"
+        },
+        {
+          "id": 100000057471,
+          "storageId": 10000009472,
+          "code": "A01-01-01-B",
+          "productId": 110000081010,
+          "productName": "FloBrand-DressBSBlue",
+          "productCode": "FBR00040103",
+          "quantity": 14,
+          "createdTime": "2022-11-09T03:24:09.865117Z"
+        },
+        {
+          "id": 100000057492,
+          "storageId": 10000008477,
+          "code": "A01-01-01-E",
+          "productId": 110000081010,
+          "productName": "FloBrand-DressBSRed",
+          "productCode": "FBR00040102",
+          "quantity": 90,
+          "createdTime": "2021-08-05T03:13:17.971784Z"
+        },
+        {
+          "id": 100000057414,
+          "storageId": 10000009545,
+          "code": "A01-01-01-R",
+          "productId": 110000081012,
+          "productName": "FloBrand-DressBSRed",
+          "productCode": "FBR00040103",
+          "quantity": 89,
+          "createdTime": "2021-08-17T14:19:05.855211Z"
+        },
+        {
+          "id": 100000057407,
+          "storageId": 10000009547,
+          "code": "A01-01-01-S",
+          "productId": 110000081009,
+          "productName": "FloBrand-DressBSBlue",
+          "productCode": "FBR00040101",
+          "quantity": 25,
+          "createdTime": "2021-07-16T04:14:27.973184Z"
+        },
+        {
+          "id": 100000057491,
+          "storageId": 10000009728,
+          "code": "A01-01-01-F",
+          "productId": 110000081009,
+          "productName": "FloBrand-DressBSBlue",
+          "productCode": "FBR00040102",
+          "quantity": 7,
+          "createdTime": "2023-05-18T08:39:06.604935Z"
+        },
+        {
+          "id": 100000057473,
+          "storageId": 10000008642,
+          "code": "A01-01-01-G",
+          "productId": 110000081012,
+          "productName": "FloBrand-DressBSPink",
+          "productCode": "FBR00040103",
+          "quantity": 59,
+          "createdTime": "2023-09-01T04:34:50.485288Z"
+        },
+        {
+          "id": 100000057468,
+          "storageId": 10000008702,
+          "code": "A01-01-01-B",
+          "productId": 110000081012,
+          "productName": "FloBrand-DressBSPurple",
+          "productCode": "FBR00040103",
+          "quantity": 92,
+          "createdTime": "2023-03-23T07:21:08.858039Z"
+        },
+        {
+          "id": 100000057426,
+          "storageId": 10000008659,
+          "code": "A01-01-01-V",
+          "productId": 110000081010,
+          "productName": "FloBrand-DressBSRed",
+          "productCode": "FBR00040102",
+          "quantity": 42,
+          "createdTime": "2021-03-26T14:43:22.897537Z"
+        },
+        {
+          "id": 100000057468,
+          "storageId": 10000009030,
+          "code": "A01-01-01-S",
+          "productId": 110000081011,
+          "productName": "FloBrand-DressBSPink",
+          "productCode": "FBR00040103",
+          "quantity": 62,
+          "createdTime": "2021-06-16T13:28:45.407015Z"
+        },
+        {
+          "id": 100000057487,
+          "storageId": 10000009087,
+          "code": "A01-01-01-O",
+          "productId": 110000081009,
+          "productName": "FloBrand-DressBSRed",
+          "productCode": "FBR00040101",
+          "quantity": 42,
+          "createdTime": "2022-12-18T07:05:39.409051Z"
+        },
+        {
+          "id": 100000057451,
+          "storageId": 10000009996,
+          "code": "A01-01-01-G",
+          "productId": 110000081012,
+          "productName": "FloBrand-DressBSRed",
+          "productCode": "FBR00040102",
+          "quantity": 92,
+          "createdTime": "2022-04-14T20:58:04.106141Z"
+        },
+        {
+          "id": 100000057441,
+          "storageId": 10000009644,
+          "code": "A01-01-01-T",
+          "productId": 110000081011,
+          "productName": "FloBrand-DressBSPink",
+          "productCode": "FBR00040103",
+          "quantity": 95,
+          "createdTime": "2021-07-01T13:47:44.631541Z"
+        },
+        {
+          "id": 100000057486,
+          "storageId": 10000009878,
+          "code": "A01-01-01-H",
+          "productId": 110000081009,
+          "productName": "FloBrand-DressBSRed",
+          "productCode": "FBR00040101",
+          "quantity": 26,
+          "createdTime": "2022-11-10T14:45:24.432148Z"
+        },
+        {
+          "id": 100000057463,
+          "storageId": 10000009473,
+          "code": "A01-01-01-P",
+          "productId": 110000081009,
+          "productName": "FloBrand-DressBSRed",
+          "productCode": "FBR00040104",
+          "quantity": 90,
+          "createdTime": "2021-08-10T17:22:32.443662Z"
+        },
+        {
+          "id": 100000057463,
+          "storageId": 10000009714,
+          "code": "A01-01-01-S",
+          "productId": 110000081011,
+          "productName": "FloBrand-DressBSRed",
+          "productCode": "FBR00040103",
+          "quantity": 80,
+          "createdTime": "2021-02-19T19:12:25.273176Z"
+        },
+        {
+          "id": 100000057419,
+          "storageId": 10000008316,
+          "code": "A01-01-01-X",
+          "productId": 110000081010,
+          "productName": "FloBrand-DressBSRed",
+          "productCode": "FBR00040104",
+          "quantity": 31,
+          "createdTime": "2022-03-13T11:32:17.410881Z"
+        },
+        {
+          "id": 100000057424,
+          "storageId": 10000009975,
+          "code": "A01-01-01-Y",
+          "productId": 110000081009,
+          "productName": "FloBrand-DressBSPink",
+          "productCode": "FBR00040103",
+          "quantity": 99,
+          "createdTime": "2021-10-01T18:37:23.237071Z"
+        },
+        {
+          "id": 100000057473,
+          "storageId": 10000009150,
+          "code": "A01-01-01-A",
+          "productId": 110000081011,
+          "productName": "FloBrand-DressBSPurple",
+          "productCode": "FBR00040103",
+          "quantity": 85,
+          "createdTime": "2021-12-16T22:07:43.578389Z"
+        },
+        {
+          "id": 100000057451,
+          "storageId": 10000009689,
+          "code": "A01-01-01-A",
+          "productId": 110000081012,
+          "productName": "FloBrand-DressBSPink",
+          "productCode": "FBR00040101",
+          "quantity": 22,
+          "createdTime": "2021-09-13T01:12:47.200923Z"
+        },
+        {
+          "id": 100000057483,
+          "storageId": 10000008716,
+          "code": "A01-01-01-M",
+          "productId": 110000081012,
+          "productName": "FloBrand-DressBSRed",
+          "productCode": "FBR00040101",
+          "quantity": 61,
+          "createdTime": "2021-10-08T02:39:59.990856Z"
+        },
+        {
+          "id": 100000057419,
+          "storageId": 10000009321,
+          "code": "A01-01-01-P",
+          "productId": 110000081012,
+          "productName": "FloBrand-DressBSPink",
+          "productCode": "FBR00040103",
+          "quantity": 24,
+          "createdTime": "2023-08-11T15:46:59.622444Z"
+        }
+      ],
+    "message": "success"
+  }
