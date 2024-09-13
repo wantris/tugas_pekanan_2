@@ -4,6 +4,7 @@ const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
+const regexNum=/^[0-9]+$/;
 
 
 rl.question(`Silahkan pilih opsi soal : 
@@ -11,48 +12,57 @@ rl.question(`Silahkan pilih opsi soal :
     2. Perhitungan storage id berdasarkan product code
     
     => `, (option) => {
-        if(option == 1){
-            rl.question('Masukkan nilai X => ', (x) => {
-                const regex=/^[0-9]+$/;
+        if(!option.match(regexNum)){
+            console.log(`Input bukan integer`);
 
-                if(!x.match(regex)){
-                    console.log(`Input bukan integer`);
-
-                    rl.close();
-                } else{
-                    if(x < 0){
-                        console.log(`Tidak bisa input bilangan negatif`);
+            rl.close();
+        }else{
+            if(option == 1){
+                rl.question('Masukkan nilai X => ', (x) => {
     
-                    }else if(oddOrEven(x) === "odd"){
-                        console.log(`Tidak bisa input bilangan ganjil`);
+                    if(!x.match(regexNum)){
+                        console.log(`Input bukan integer`);
     
-                    }else{
-                        console.log(`Akar kuadrat dari ${x} => ${Math.sqrt(x)}`);
-    
-                    }
-
-                    rl.close();
-                }
-            });
-        }  else if(option == 2){
-            rl.question('Masukkan product code => ', (productCode) => {
-                if(productCode.length != 11){
-                    console.log(`Jumlah karakter product code salah  => ${productCode.length}`);
-
-                    rl.close();
-                }else{
-                    let count = 0;
-                    productBin.data.forEach((product) => {
-                        if(product.productCode === productCode){
-                            count++;
+                        rl.close();
+                    } else{
+                        if(x < 0){
+                            console.log(`Tidak bisa input bilangan negatif`);
+        
+                        }else if(oddOrEven(x) === "odd"){
+                            console.log(`Tidak bisa input bilangan ganjil`);
+        
+                        }else{
+                            console.log(`Akar kuadrat dari ${x} => ${Math.sqrt(x)}`);
+        
                         }
-                    });
-
-                    console.log(`Jumlah storageId => ${count}`);
-                    
-                    rl.close();
-                }
-            });
+    
+                        rl.close();
+                    }
+                });
+            }  else if(option == 2){
+                rl.question('Masukkan product code => ', (productCode) => {
+                    if(productCode.length != 11){
+                        console.log(`Jumlah karakter product code salah  => ${productCode.length}`);
+    
+                        rl.close();
+                    }else{
+                        let count = 0;
+                        productBin.data.forEach((product) => {
+                            if(product.productCode === productCode){
+                                count++;
+                            }
+                        });
+    
+                        console.log(`Jumlah storageId => ${count}`);
+                        
+                        rl.close();
+                    }
+                });
+            }else{
+                console.log(`Pilihan tidak sesuai!!`);
+                        
+                rl.close();
+            }
         }
 });
 
